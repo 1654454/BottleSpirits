@@ -1,0 +1,9 @@
+/[Bb]uilds/
+/[Bb]uild/
+/[Ss]creenshots/
+/[Ss]creenshot/
+*.meta
+!*.*.meta
+*.gp4
+*.ztl
+/AnalysisConventionLogs
